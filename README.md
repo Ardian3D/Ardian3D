@@ -1,4 +1,3 @@
-````md id="0jzx3s"
 <h1 align="center">Ardian's</h1>
 <h3 align="center">Fullstack Builder • AI Automation • Web3 Research</h3>
 
@@ -132,4 +131,3 @@ Generate content workflows powered by AI systems.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer"/>
 </p>
-```
