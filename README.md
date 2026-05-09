@@ -87,9 +87,9 @@ Generate content workflows powered by AI systems.
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ardian3D&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ardian3D&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardian3D&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardian3D&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
