@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/ardians-banner.webp"
+  src="https://i.pinimg.com/control1/1200x/d3/8f/5b/d38f5bdf80f587c3904efef95cd1249c.jpg"
   width="100%"
   alt="Ardian's — Full-Stack, Smart Contracts, and AI Automation"
 />
