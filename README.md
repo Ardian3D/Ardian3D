@@ -73,7 +73,7 @@ currently_exploring:
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="./assets/ardians-about.webp"
+  src="https://i.pinimg.com/control1/736x/f9/6f/86/f96f861fb2b5f53aa7ff542b7783b99c.jpg"
   width="300"
   alt="Ardian's developer illustration"
 />
