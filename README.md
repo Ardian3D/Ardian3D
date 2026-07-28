@@ -1,111 +1,111 @@
 <h1 align="center">Ardian's</h1>
-<h3 align="center">Fullstack Builder • AI Automation • Web3 Research</h3>
 
 <p align="center">
-  <a href="https://github.com/Ardian3D">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Automation+Developer;Web3+Builder;Fullstack+Engineer;Building+Useful+Systems" />
-  </a>
+  <strong>Full-Stack Builder · Smart Contract Developer · AI Automation</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ardian3D&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" />
+  Building practical products across web applications, smart contracts,
+  AI-assisted workflows, and Web3 ecosystems.
 </p>
 
----
-
-## About Me
-
-```yaml
-Name: Ardian's
-Role: Fullstack Builder
-Focus:
-  - AI Systems
-  - Web3 Infrastructure
-  - SaaS Development
-  - Automation Tools
-
-Learning:
-  - AI Agents
-  - Backend Scaling
-  - Blockchain Systems
-````
-
-Building systems, automation tools, and scalable products focused on AI and Web3 ecosystems.
-
----
-
-## Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,mongodb,firebase,tailwind,docker,git,github,vscode&theme=dark" />
+  <a href="https://ardian3d.xyz">Portfolio</a>
+  ·
+  <a href="https://github.com/Ardian3D">GitHub</a>
+  ·
+  <a href="https://x.com/Ardian3D">X</a>
+  ·
+  <a href="https://www.linkedin.com/in/ardian3d">LinkedIn</a>
+  ·
+  <a href="mailto:hello@ardian3d.xyz">Email</a>
 </p>
 
 ---
 
-## Featured Projects
+## About
 
-<table>
-<tr>
-<td width="50%">
+I'm an independent developer exploring the intersection of:
 
-### AI Interview Platform
+- Full-stack product development
+- EVM smart contracts and Web3 applications
+- AI automation and agentic workflows
+- Technical research and community growth
 
-AI-powered interview simulator with smart evaluation and feedback system.
-
-</td>
-
-<td width="50%">
-
-### Telegram Automation
-
-Automation tools for community growth, moderation, and engagement.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Crypto Dashboard
-
-Track wallets, token analytics, and real-time market activity.
-
-</td>
-
-<td width="50%">
-
-### AI Content Engine
-
-Generate content workflows powered by AI systems.
-
-</td>
-</tr>
-</table>
+I focus on turning ideas into working systems through rapid experimentation,
+structured development, and practical implementation.
 
 ---
 
-## GitHub Analytics
+## Selected Projects
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ardian3D&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+### [PRDForge](https://github.com/Ardian3D/prdforge)
 
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardian3D&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+An AI-powered SaaS platform that transforms short product ideas into structured
+Product Requirement Documents with technical specifications, user flows,
+diagrams, and conversational revisions.
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ardian3D&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `DeepSeek API` `Midtrans`
 
 ---
 
-## Developer Trophies
+### [AgentLint](https://github.com/Ardian3D/agentlint)
+
+A deterministic readiness-auditing platform for AI agents, MCP services,
+public APIs, and agent-native applications.
+
+`Next.js` `Express` `PostgreSQL` `Redis` `Drizzle ORM` `Docker`
+
+---
+
+### [GuardFi AI](https://github.com/Ardian3D/guardfi-ai)
+
+An AI-assisted DeFi risk intelligence platform that analyses smart contracts,
+produces deterministic risk indicators, and anchors report commitments on-chain.
+
+`Next.js` `Solidity` `Hardhat` `wagmi` `viem` `DeepSeek API`
+
+---
+
+### [nanyAi](https://github.com/Ardian3D/nanyaAi)
+
+An AI-powered voice interview platform with Bahasa Indonesia question generation,
+real-time interview simulation, transcription, and structured feedback.
+
+`Next.js` `Firebase` `DeepSeek` `Vapi` `Deepgram` `ElevenLabs`
+
+---
+
+## Technical Focus
+
+```text
+Frontend       React · Next.js · TypeScript · Tailwind CSS
+Backend        Node.js · Express · REST APIs · Python
+Blockchain     Solidity · Hardhat · EVM · wagmi · viem
+Data           PostgreSQL · MongoDB · Firebase · Redis
+AI & Agents    DeepSeek API · Claude Code · Codex · Grok CLI
+Tools          Git · Docker · Vercel
+```
+
+---
+
+## Currently Exploring
+
+- Agentic software-development workflows
+- AI agents connected to external tools and APIs
+- Smart-contract security patterns
+- Scalable backend architecture
+- Web3 infrastructure and product research
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ardian3D&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ardian3D&show_icons=true&hide_border=true&bg_color=00000000"
+    alt="Ardian's GitHub statistics"
+  />
 </p>
 
 ---
@@ -113,21 +113,19 @@ Generate content workflows powered by AI systems.
 ## Connect
 
 <p align="center">
-  <a href="https://x.com/Ardian3D">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-
-  <a href="https://linkedin.com/in/rizkitech0">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://t.me/Ardian3D">
-    <img src="https://cdn.simpleicons.org/telegram/58A6FF" width="48" />
-  </a>
+  <a href="https://ardian3d.xyz">Portfolio</a>
+  ·
+  <a href="https://x.com/Ardian3D">X</a>
+  ·
+  <a href="https://www.linkedin.com/in/ardian3d">LinkedIn</a>
+  ·
+  <a href="https://t.me/Ardian3D">Telegram</a>
+  ·
+  <a href="mailto:hello@ardian3d.xyz">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer"/>
+  <strong>Build useful systems. Keep learning. Keep shipping.</strong>
 </p>
