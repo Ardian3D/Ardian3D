@@ -108,6 +108,31 @@ currently_exploring:
 
 ---
 
+## Live Language Detection
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com/?lines=Scanning+repositories...;Detecting+languages+used...;Calculating+distribution...;Updated+automatically+on+every+visit;Ardian3D+%2F%2F+auto-refresh+enabled&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=18&pause=1200&background=00000000"
+  alt="Live scan animation"
+/>
+
+<br />
+<br />
+
+<img
+  width="55%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardian3D&layout=compact&theme=github_dark&hide_border=true&langs_count=12&card_width=500"
+  alt="Ardian's most used programming languages"
+/>
+
+<br />
+<sub><i>Auto-detected from all public repositories — refreshes every time this profile is viewed, no manual updates needed.</i></sub>
+
+</div>
+
+---
+
 ## Technical Focus
 
 ```text
