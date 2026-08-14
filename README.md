@@ -108,31 +108,6 @@ currently_exploring:
 
 ---
 
-## Live Language Detection
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com/?lines=Scanning+repositories...;Detecting+languages+used...;Calculating+distribution...;Updated+automatically+on+every+visit;Ardian3D+%2F%2F+auto-refresh+enabled&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=18&pause=1200&background=00000000"
-  alt="Live scan animation"
-/>
-
-<br />
-<br />
-
-<img
-  width="55%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardian3D&layout=compact&theme=github_dark&hide_border=true&langs_count=12&card_width=500"
-  alt="Ardian's most used programming languages"
-/>
-
-<br />
-<sub><i>Auto-detected from all public repositories — refreshes every time this profile is viewed, no manual updates needed.</i></sub>
-
-</div>
-
----
-
 ## Technical Focus
 
 ```text
@@ -143,6 +118,41 @@ DATA            PostgreSQL · MongoDB · Firebase · Redis · Supabase
 AI & AGENTS     DeepSeek API · Claude Code · Codex · Grok CLI
 TOOLS           Git · GitHub · Docker · Vercel
 ```
+
+---
+
+## Language Runtime
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=45&lines=%E2%97%8F+SCANNING+PUBLIC+REPOSITORIES...;%E2%97%8F+ANALYZING+LANGUAGE+DISTRIBUTION...;%E2%97%8F+LANGUAGE+INDEX+ONLINE."
+  alt="Language runtime status"
+/>
+
+<br />
+
+<img
+  width="78%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardian3D&layout=compact&langs_count=20&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&card_width=700"
+  alt="Automatically detected programming languages across Ardian3D repositories"
+/>
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/STATUS-AUTO--DETECT-238636?style=flat-square&logo=github&logoColor=white" alt="Auto detect status" />
+<img src="https://img.shields.io/badge/SOURCE-PUBLIC%20REPOSITORIES-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="Public repository source" />
+<img src="https://img.shields.io/badge/ORDER-USAGE%20DESCENDING-161B22?style=flat-square&logo=codefactor&logoColor=58A6FF" alt="Languages sorted by usage" />
+
+<br />
+<br />
+
+<sub>
+LANGUAGE DISTRIBUTION IS GENERATED FROM THE SOURCE CODE DETECTED ACROSS PUBLIC REPOSITORIES.
+</sub>
+
+</div>
 
 ---
 
@@ -187,6 +197,15 @@ My goal is to connect both sides of a product:
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardian3D&theme=github_dark"
   alt="Ardian's repositories by language"
+/>
+
+<br />
+<br />
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ardian3D&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  alt="Ardian's GitHub contribution activity graph"
 />
 
 </div>
