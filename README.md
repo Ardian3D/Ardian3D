@@ -34,8 +34,6 @@ smart contracts, AI-assisted workflows, and Web3 ecosystems.
 
 ---
 
-## Technologies
-
 <div align="center">
 
 ### Languages
@@ -57,39 +55,6 @@ smart contracts, AI-assisted workflows, and Web3 ecosystems.
 </div>
 
 ---
-
-## Technical Focus
-
-```text
-INTERFACES      React · Next.js · TypeScript · Tailwind CSS
-SYSTEMS         Node.js · Express · REST APIs · Backend Architecture
-SMART CONTRACTS Solidity · Hardhat · EVM · wagmi · viem
-DATA            PostgreSQL · MongoDB · Firebase · Redis · Supabase
-AI & AGENTS     DeepSeek API · Claude Code · Codex · Grok CLI
-TOOLS           Git · GitHub · Docker · Vercel
-```
-
----
-
-## Web3 & Community
-
-Alongside development, I contribute to Web3 ecosystems through project
-research, educational content, campaign participation, and community
-engagement.
-
-Experience includes work and contributions across:
-
-```text
-ForeGate · Solstice · XOMarket · Pharos Network
-```
-
-My goal is to connect both sides of a product:
-
-> Build a system that works — then communicate its value clearly.
-
----
-
-## GitHub Overview
 
 <div align="center">
 
@@ -115,18 +80,6 @@ My goal is to connect both sides of a product:
 />
 
 </div>
-
----
-
-## Current Direction
-
-```text
-01  Building practical full-stack products
-02  Exploring AI agents and automation workflows
-03  Developing EVM-based smart-contract systems
-04  Improving backend architecture and reliability
-05  Researching emerging Web3 products and infrastructure
-```
 
 ---
 
