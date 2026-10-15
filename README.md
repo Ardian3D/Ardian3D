@@ -10,25 +10,10 @@
 
 # Ardian's
 
-### Full-Stack Builder · Smart Contract Developer · AI Automation
+### Full-Stack Builder | Smart Contract Developer | AI Automation
 
 Building useful products across modern web development,  
 smart contracts, AI-assisted workflows, and Web3 ecosystems.
-
-<br />
-
-<a href="https://ardian3d.xyz">
-  <img src="https://img.shields.io/badge/Portfolio-ardian3d.xyz-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:hello@ardian3d.xyz">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://x.com/Ardian3D">
-  <img src="https://img.shields.io/badge/X-@Ardian3D-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://www.linkedin.com/in/ardian3d">
-  <img src="https://img.shields.io/badge/LinkedIn-Ardian-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
 </div>
 
@@ -82,8 +67,6 @@ smart contracts, AI-assisted workflows, and Web3 ecosystems.
 </div>
 
 ---
-
-## Connect
 
 <div align="center">
 
