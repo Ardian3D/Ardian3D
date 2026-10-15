@@ -34,56 +34,6 @@ smart contracts, AI-assisted workflows, and Web3 ecosystems.
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-## About Me
-
-I'm an independent developer building products across full-stack development,
-smart contracts, and applied AI.
-
-My work focuses on turning early ideas into usable systems through practical
-experimentation, structured development, and continuous iteration.
-
-```yaml
-brand: "Ardian's"
-location: "Jakarta, Indonesia"
-
-primary_focus:
-  - Full-Stack Products
-  - Smart Contracts
-  - AI Automation
-  - Agentic Workflows
-
-web3_focus:
-  - Product Research
-  - Community Growth
-  - Educational Content
-  - Project Awareness
-
-currently_exploring:
-  - AI Agents
-  - Backend Architecture
-  - Blockchain Systems
-  - Developer Automation
-```
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img
-  src="https://i.pinimg.com/control1/736x/f9/6f/86/f96f861fb2b5f53aa7ff542b7783b99c.jpg"
-  width="300"
-  alt="Ardian's developer illustration"
-/>
-
-</td>
-</tr>
-</table>
-
----
-
 ## Technologies
 
 <div align="center">
